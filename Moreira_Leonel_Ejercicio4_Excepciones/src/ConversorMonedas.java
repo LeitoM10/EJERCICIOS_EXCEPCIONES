@@ -14,7 +14,6 @@ public class ConversorMonedas {
             );
         }
 
-        // Tasas de cambio (hardcodeadas)
         double tasa = 0;
 
         if (monedaOrigen.equals("USD") && monedaDestino.equals("EUR")) {
