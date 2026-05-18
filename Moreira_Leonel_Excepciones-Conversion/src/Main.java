@@ -7,7 +7,7 @@ public class Main {
 
         try {
             System.out.print("Ingrese un número entero: ");
-            String input = sc.nextLine(); //
+            String input = sc.nextLine(); 
 
             int numero = Integer.parseInt(input);
 
